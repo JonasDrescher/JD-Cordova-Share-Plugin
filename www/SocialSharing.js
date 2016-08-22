@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-x-socialsharing.SocialSharing", function(require, exports, module) {
+cordova.define("jdcordova-share-plugin", function(require, exports, module) {
 var cordova = require('cordova');
 
 function SocialSharing() {

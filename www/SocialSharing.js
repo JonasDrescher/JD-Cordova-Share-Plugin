@@ -1,6 +1,3 @@
-cordova.define("jdcordova-share-plugin", function(require, exports, module) {
-var cordova = require('cordova');
-
 function SocialSharing() {
 }
 
@@ -127,5 +124,3 @@ SocialSharing.install = function () {
 };
 
 cordova.addConstructor(SocialSharing.install);
-
-});

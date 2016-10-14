@@ -1,9 +1,9 @@
 {
-  "name": "jdcordova-share-plugin",
+  "name": "jd-cordova-share-plugin",
   "version": "1.0.1",
   "description": "Share text, images (and other files), or a link via the native sharing widget of your device. Android is fully supported, as well as iOS 6 and up. WP8 has somewhat limited support.",
   "cordova": {
-    "id": "jdcordova-share-plugin",
+    "id": "jd-cordova-share-plugin",
     "platforms": [
       "ios",
       "android",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonasDrescher/JDCordovaShare-Plugin.git"
+    "url": "git+https://github.com/JonasDrescher/JD-CordovaShare-Plugin.git"
   },
   "keywords": [
     "Social",
@@ -41,7 +41,7 @@
   "author": "Jonas Drescher - @JonasDrescher",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JonasDrescher/JDCordovaShare-Plugin/issues"
+    "url": "https://github.com/JonasDrescher/JD-CordovaShare-Plugin/issues"
   },
-  "homepage": "https://github.com/JonasDrescher/JDCordovaShare-Plugin#readme"
+  "homepage": "https://github.com/JonasDrescher/JD-CordovaShare-Plugin#readme"
 }

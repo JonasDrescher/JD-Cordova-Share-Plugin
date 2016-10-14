@@ -1,4 +1,4 @@
-# JDCordovaShare-Plugin
+# JD-Cordova-Share-Plugin
 
 ## 1. Description
 
@@ -20,9 +20,9 @@ This plugin allows you to use the native sharing window of your mobile device.
 SocialSharing is compatible with [Cordova Plugman](https://github.com/apache/cordova-plugman), compatible with [PhoneGap 3.0 CLI](http://docs.phonegap.com/en/3.0.0/guide_cli_index.md.html#The%20Command-line%20Interface_add_features), here's how it works with the CLI:
 
 ```
-$ phonegap local plugin add https://github.com/JonasDrescher/JDCordovaShare-Plugin.git
+$ phonegap local plugin add https://github.com/JonasDrescher/JD-Cordova-Share-Plugin.git
 or
-$ cordova plugin add https://github.com/JonasDrescher/JDCordovaShare-Plugin.git
+$ cordova plugin add https://github.com/JonasDrescher/JD-Cordova-Share-Plugin.git
 ```
 
 SocialSharing.js is brought in automatically. There is no need to change or add anything in your html.
